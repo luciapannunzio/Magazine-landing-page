@@ -27,8 +27,7 @@
 
 **About Project**
  - Description
-*Magazine-landing-page* Create a webpage using Html/Css to recreate a Magazine page. Using mainly flexbox and images. This project is static, that means there are no functioning buttons.
-
+*Magazine-landing-page* Create a webpage using Html/Css to recreate a Magazine page. Using mainly flexbox, hover and images.
 
 * * *
 
