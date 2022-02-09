@@ -1,0 +1,16 @@
+footer {
+  width: 20vw;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  margin-left: 48rem;
+  margin-top: 5rem;
+  font-size: 24px;
+  font-weight:normal;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.fa-arrow-down {
+  margin-right: 0.5rem;
+}
