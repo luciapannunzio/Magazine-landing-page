@@ -22,6 +22,16 @@ nav, .de, .en {
   font-weight:900;
 }
 
+.de:hover {
+  color:var( --background-color);
+  background-color:var(--text-main-color);
+}
+
+.en:hover {
+  color:var(--text-main-color);
+  background-color:var( --background-color);
+}
+
 .en {
   width: 20vw;
   height: 2vh;
