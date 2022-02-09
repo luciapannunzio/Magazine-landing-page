@@ -50,6 +50,7 @@ button {
   border-color:var(--text-main-color);
   color:var( --background-color);
   background-color:var(--text-main-color);
+  outline: none;
 }
 
 .fa-arrow-right {
