@@ -53,7 +53,7 @@ Mail: [luciapannunzio](luciapannunzio@gmail.com)
 
 GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
 
-LinkedIn: [my linkedin](https://www.linkedin.com/luciapannunziovanderwedden)
+LinkedIn: [luciapannunziovanderwedden](https://www.linkedin.com/in/luciapannunziovanderwedden/)
 
 
 * * *
