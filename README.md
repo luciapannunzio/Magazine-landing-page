@@ -49,7 +49,7 @@
  
 **Contact**
 
-Mail: [luciapannunzio](luciapannunzio@gmail.com)
+Mail: [luciapannunzio](https://mail.google.com/mail/u/0/#inbox)
 
 GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
 
